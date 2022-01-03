@@ -1,0 +1,104 @@
+.carousel-item {
+    height: 450px;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0.979);
+}
+
+.carousel-img-1 {
+    background: url('../img/pexels-johannes-plenio-1118873.jpg');
+    background-size: cover;
+}
+
+.carousel-img-2 {
+    background: url('../img/pexels-pixabay-209831.jpg');
+    background-size: cover;
+}
+
+.carousel-img-3 {
+    background: url('../img/pexels-pixabay-459451.jpg');
+    background-size: cover;
+}
+
+#homeicon .fas {
+    font-size: 50px;
+}
+
+#getstarted {
+    background: url('../img/pexels-pixabay-459451.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+
+#home-vedio {
+    background: url('../img/pexels-pixabay-459451.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+
+#home-vedio .fab {
+    font-size: 50px;
+}
+
+#footer {
+    background-color: black;
+}
+
+#page-header {
+    background: url('../img/image3.jpeg');
+    background-size: cover;
+    height: 450px;
+    background-attachment: fixed;
+}
+
+#info img {
+    height: 450px;
+    width: 450px;
+}
+
+#icon-boxes .fas {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#icon-boxes .fab {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#testomonial .slick-prev::before {
+    color: #000;
+}
+
+#testomonial .slick-next::before {
+    color: #000;
+}
+
+#services-page-header {
+    background: url('../img/image\ 2.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 450px;
+}
+
+#blog-page-header {
+    background: url('../img/image\ 2.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 450px;
+}
+
+#contact-page-header {
+    background: url('../img/image\ 2.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 450px;
+}
